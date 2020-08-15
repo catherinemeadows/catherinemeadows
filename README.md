@@ -1,23 +1,12 @@
 ### Hi, I'm Cat Meadows!
 
-<!--
-**catherinemeadows/catherinemeadows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](images/CATHERINE_MEADOWS.gif)
 
-Here are some ideas to get you started:
+I am a rising Junior at George Washington University pursuing a Bachelor of Science degree in Computer Science as well as a minor in Naval Science. I work as an Undergraduate Learning Assistant for the CSCI 2461 Computer Architecture course and as a research assistant for Dr. Timothy Wood's group, working on the high performance NFV platform-[OpenNetVM](http://sdnfv.github.io/onvm/). I'm also one of the Co-Founders and Directors for the [International Movement for Resilience, Authenticity, and Activism (IMRAA)](https://imraacoalition.github.io). Together, we work with female empowerment organizations in the US, Ghana, and Nigeria to empower passionate youth to make change in their communities. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-#### Around the Web: 
+## Around the Web :earth_americas:: 
 - [Website](https://catherinemeadows.github.io)
 - [LinkedIn](https://www.linkedin.com/in/catherine-meadows-03560b182)
 
-#### How to Reach Me:
+## How to Reach Me :email::
 - Email: meadowsc@gwu.edu
