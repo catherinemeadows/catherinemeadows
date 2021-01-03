@@ -11,7 +11,7 @@ I am a Junior at George Washington University pursuing a Bachelor of Science deg
 ## How to Reach Me :email::
 - Email: meadowsc@gwu.edu
 
-#### &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 <a href="https://github.com/catherinemeadows/catherinemeadows">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catherinemeadows&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
