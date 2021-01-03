@@ -6,7 +6,7 @@ I am a Junior at George Washington University pursuing a Bachelor of Science deg
 
 ## Around the Web :earth_americas:: 
 - [Website](https://catherinemeadows.github.io)
-- [LinkedIn](https://www.linkedin.com/in/catherine-meadows-03560b182)
+- [LinkedIn](https://www.linkedin.com/in/catherine-meadows-she-her-hers-03560b182)
 
 ## How to Reach Me :email::
 - Email: meadowsc@gwu.edu
