@@ -1,6 +1,6 @@
 ### Hi, I'm Cat Meadows!
 
-I am a Senior at George Washington University pursuing a Bachelor of Science degree in Computer Science as well as a minor in Naval Science. I work as an Undergraduate Teaching Assistant for the CSCI 2541 Databases course and as a research assistant for Dr. Timothy Wood's group, working on the high performance NFV platform-[OpenNetVM](http://sdnfv.github.io/onvm/).
+I am a graduate student at George Washington University pursuing a Master of Science degree in Computer Science. I work as a research assistant for Dr. Timothy Wood's group, working in the areas of networking and distributed systems. 
 
 ## Around the Web :earth_americas:: 
 - [Website](https://catherinemeadows.github.io)
