@@ -1,13 +1,13 @@
 ### Hi, I'm Cat Meadows!
 
-I am a graduate student at George Washington University pursuing a Master of Science degree in Computer Science. I work as a research assistant for Dr. Timothy Wood's group, working in the areas of networking and distributed systems. 
+I am a Student Naval Aviator(SNA). I received my Master of Science degree in Computer Science from George Washington University in May 2023. I worked as a research assistant for Dr. Timothy Wood's group, working in the areas of networking and distributed systems. 
 
 ## Around the Web :earth_americas:: 
 - [Website](https://catherinemeadows.github.io)
 - [LinkedIn](https://www.linkedin.com/in/catherine-meadows-03560b182)
 
 ## How to Reach Me :email::
-- Email: meadowsc@gwu.edu
+- Email: catherinemeadows4@gmail.com
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/catherinemeadows/catherinemeadows">
